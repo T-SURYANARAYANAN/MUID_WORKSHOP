@@ -2,13 +2,13 @@
 ## AIM :
 Android Application Getting two values and Display the result (Addition Value) in the text box using Android Studio
 ## Algorithm:
-1.Open Android Studio → New Project → Empty Activity.
-2.Open activity_main.xml to design the layout.
-3.Add a TextView for the heading (“Workshop”).
-4.Add two EditText boxes for number inputs.
-5.Add a Button to perform the summation.
-6.Add a TextView to display the result.
-7.In MainActivity.java, handle the button click → get values → calculate add → display result.
+1.Open Android Studio → New Project → Empty Activity.<br>
+2.Open activity_main.xml to design the layout.<br>
+3.Add a TextView for the heading (“Workshop”).<br>
+4.Add two EditText boxes for number inputs.<br>
+5.Add a Button to perform the summation.<br>
+6.Add a TextView to display the result.<br>
+7.In MainActivity.java, handle the button click → get values → calculate add → display result.<br>
 ## Program:
 ```text
 Developed by : SURYANARAYANAN T
