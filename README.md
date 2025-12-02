@@ -1,4 +1,4 @@
-# WORKSHOP - Addtion of Two Numbera
+# WORKSHOP - Addtion of Two Numbers
 ## AIM :
 Android Application Getting two values and Display the result (Addition Value) in the text box using Android Studio
 ## Algorithm:
@@ -11,9 +11,8 @@ Android Application Getting two values and Display the result (Addition Value) i
 7.In MainActivity.java, handle the button click → get values → calculate add → display result.
 ## Program:
 ```text
-Program to add two numbers 
 Developed by : SURYANARAYANAN T
-Registeration Number : 212224040341
+Register Number : 212224040341
 ```
 ## activity_main.xml
 ```xml
@@ -153,9 +152,4 @@ public class MainActivity extends AppCompatActivity {
 #### Execution
 <img width="369" height="804" alt="image" src="https://github.com/user-attachments/assets/ae0ae6b5-ac55-49c5-8ad3-872e44e1c139" /><br>
 ## Result :
-The Andriod Application to get two numbers as input and display there sum as output is created and executed Successfully.
-
-
-
-## Result :
-Thus the Android application takes two numerical inputs from the user and displays their sum in a text box when the "Calculate Sum" button is executed successfully.
+Thus the Android application takes two numerical inputs from the user and displays their sum in a text box when the "add" button is executed successfully.
